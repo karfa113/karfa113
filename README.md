@@ -7,9 +7,16 @@
 </h1>
 <h3 align="center">Just a eager learner</h3>
 
-- 🌱 I’m currently learning **Frontend Developement**
+### Talking about Personal Stuff:
+  - 🛠 &nbsp; Currently I am working on **Frontend Developement**
+  - 🚀 &nbsp; I’m currently exploring cpp, python.
+  - 📫 &nbsp; Reach me out: **karfamonojit123@gmail.com**
 
-- 📫 How to reach me **karfamonojit123@gmail.com**
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading Stories & watching Web Series, Movies whenever possible.
+- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
