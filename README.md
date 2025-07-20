@@ -14,7 +14,7 @@
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading Stories & watching Web Series, Movies whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+- 🍕 &nbsp; Tech Events & Hackathons.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
