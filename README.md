@@ -43,7 +43,7 @@
   <p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karfa113&show_icons=true&locale=en&layout=compact&theme=gotham" alt="karfa113" /></p>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karfa113&show_icons=true&theme=gotham" alt="karfa113" />
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karfa113&theme=gotham" alt="karfa113" /></p>
-  <br><br><br>
+  <br><br>
   <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=karfa113&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
