@@ -39,7 +39,7 @@
 
 <hr>
 
-## 📊 GitHub Stats 📊
+<h2 align="center">⚡️ GitHub Stats ⚡️</h2>
   <p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karfa113&show_icons=true&locale=en&layout=compact&theme=gotham" alt="karfa113" /></p>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karfa113&show_icons=true&theme=gotham" alt="karfa113" />
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karfa113&theme=gotham" alt="karfa113" /></p>
