@@ -21,7 +21,7 @@
 - 🚀 Exploring **C++ & Python**  
 - 📫 Reach me at: **karfamonojit123@gmail.com**
 
----
+
 
 ### 💖 My Favorites
 - 💻 Exploring **new technologies & building projects**  
@@ -37,7 +37,7 @@
   <a href="https://instagram.com/wl_monojit" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
----
+
 
 ### ⚒️ Languages & Tools
 <p>
