@@ -58,7 +58,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karfa113&theme=github-compact&bg_color=transparent&hide_border=false&area=true" width="100%"/>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
